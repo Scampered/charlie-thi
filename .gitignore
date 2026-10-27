@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Created by Charlie while running
+smalltalk.db
+data.json
+data.scrape.json
+sentences.json.tmp
+sentences.backup.json
+chatbot.db
+
+# Editor / OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

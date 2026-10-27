@@ -1,0 +1,14 @@
+flask==2.2.5
+gunicorn==23.0.0
+chatterbot==1.0.4
+python-dateutil==2.7.5
+pymongo==3.13.0
+pyyaml==5.1.2
+nltk==3.8.1
+pint==0.18
+mathparse==0.1.2
+pytz
+# Scrapy 2.9 is the newest version for Python 3.7; it crashes with Twisted 23.8+,
+# so Twisted is pinned to the last version that works with it.
+scrapy==2.9.0
+Twisted==22.10.0
